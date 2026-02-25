@@ -1,10 +1,10 @@
 Last updated: 2026-02-25
 
-# awesome-search-ads-rec-weekly
+# Awesome search ads recommendation systems weekly
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated weekly digest of the latest research papers, engineering blogs, open-source projects, and industry trends across **Search**, **Advertising**, and **Recommendation** systems. This repository aims to help researchers, engineers, and practitioners stay up-to-date with cutting-edge developments in these three closely related fields.
+A curated weekly digest of the latest research papers across **Search**, **Advertising**, and **Recommendation** systems. This repository aims to help researchers, engineers, and practitioners stay up-to-date with cutting-edge developments in these three closely related fields.
 
 We cover a broad range of topics including but not limited to:
 
@@ -19,12 +19,8 @@ Whether you are an academic researcher exploring new directions or an industry p
 ## Table of Contents
 
 - [Latest Weekly Update](#latest-weekly-update)
-  - [Search](#search)
-  - [Advertising](#advertising)
-  - [Recommendation](#recommendation)
 - [Archive](#archive)
-- [How to Contribute](#how-to-contribute)
-- [Star History](#star-history)
+- [Star](#star)
 - [Disclaimer](#disclaimer)
 
 ---
@@ -94,33 +90,7 @@ Whether you are an academic researcher exploring new directions or an industry p
 
 ---
 
-## How to Contribute
-
-We welcome and encourage contributions from the community! To submit a new research entry, please open a **Pull Request** with the following format:
-
-**PR Title**: `[Area] Paper/Blog Title`
-
-**PR Body** (one entry per item):
-
-```
-- **Title**: <Paper or Blog Title>
-- **Authors**: <Author1, Author2, ...>
-- **Venue**: <Conference / Journal / Blog Name, Year>
-- **Link**: <URL to the paper, blog post, or repository>
-- **Summary**: <A concise, objective 1-2 sentence summary describing the key contribution>
-```
-
-**Formatting guidelines**:
-
-1. **Area** must be one of: `Search`, `Advertising`, or `Recommendation`.
-2. Entries should be placed under the correct section heading in the current week.
-3. If a paper has an accompanying GitHub repository, please include the link.
-4. Keep the summary objective — describe **what** the work does, not **how good** it is.
-5. If the link is not yet available (for example, a pre-print under review), mark it as `[Link unavailable]`.
-
----
-
-## Star History
+## Star
 
 If you find this repository useful, please consider giving it a **star** to help others discover it.
 
