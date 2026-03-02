@@ -1,4 +1,4 @@
-Last updated: 2026-02-27
+Last updated: 2026-02-28
 
 # Awesome Search, Ads, and Recommendation Systems Weekly
 
@@ -23,7 +23,7 @@ This repository helps researchers, engineers, and practitioners stay up-to-date 
 
 ## Latest Weekly Update
 
-> **Week of 2026-02-27**
+> **Week of 2026-02-28**
 
 | # | Title | Institution| Authors | Summary | Code |
 |---|-------|------------|---------|---------|------|
@@ -52,7 +52,7 @@ This repository helps researchers, engineers, and practitioners stay up-to-date 
 
 | Week | Date | Link |
 |------|------|------|
-| Week 1 | 2026-02-27 | [Link](#latest-weekly-update) |
+| Week 1 | 2026-02-28 | [Link](#latest-weekly-update) |
 
 ---
 
