@@ -23,7 +23,7 @@ This repository helps researchers, engineers, and practitioners stay up-to-date 
 
 ## Latest Weekly Update
 
-> **Week of 2026-03-07**
+### Week of 2026-03-07
 
 | # | Title | Institution| Authors | Summary | Code |
 |---|-------|------------|---------|---------|------|
@@ -50,7 +50,7 @@ This repository helps researchers, engineers, and practitioners stay up-to-date 
 | 21 | [Compress, Cross and Scale: Multi-Level Compression Cross Networks for Efficient Scaling in Recommender Systems](https://arxiv.org/abs/2602.12041) | Bilibili | Heng Yu, Xiangjun Zhou, Jie Xia, Heng Zhao, Anxin Wu, Yu Zhao, Dongying Kong | Existing feature interaction modules in deep learning recommendation models fail to simultaneously achieve strong interaction capacity, high computational efficiency, and robust scalability, resulting in diminishing returns when scaling up. The authors propose the **Multi-Level Compression Cross network (MLCC)** and its multi-channel extension (**MC-MLCC**), which organize feature crosses through hierarchical compression and dynamic composition to enable efficient horizontal scaling. Online and offline experiments reveal that the architecture outperforms strong DLRM baselines by up to 0.52% AUC and reduces model parameters and FLOPs by up to 26x, driving a 32% advertiser value lift in live deployment. | [MLCC](https://github.com/shishishu/MLCC) |
 | 22 | [Proactive Guiding Strategy for Item-side Fairness in Interactive Recommendation](https://arxiv.org/abs/2603.03094) | Chinese Academy of Sciences | Chongjun Xia, Xiaoyu Shi, Hong Xie, Xianzhi Wang, Yun Lu, Mingsheng Shang | Current item-side fairness approaches in interactive recommender systems force the exposure of long-tail items, disrupting user preference alignment and hurting long-term user engagement and satisfaction. The researchers propose **HRL4PFG**, a framework that employs a macro-level agent to generate fairness-guided targets and a micro-level agent to smoothly align evolving user preferences with these targets. Interactive simulation experiments show that the framework significantly improves the fair exposure of long-tail items while maximizing cumulative interaction rewards and user session lengths compared to state-of-the-art baselines. | - |
 
-> **Week of 2026-02-28**
+### Week of 2026-02-28
 
 | # | Title | Institution| Authors | Summary | Code |
 |---|-------|------------|---------|---------|------|
@@ -78,7 +78,7 @@ This repository helps researchers, engineers, and practitioners stay up-to-date 
 
 | Week | Date | Link |
 |------|------|------|
-| Week 2 | 2026-03-07 | [Link](#latest-weekly-update) |
+| Week 2 | 2026-03-07 | [Link](#week-of-2026-03-07) |
 | Week 1 | 2026-02-28 | [Link](#week-of-2026-02-28) |
 
 ---
